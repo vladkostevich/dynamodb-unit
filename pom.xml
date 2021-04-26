@@ -16,7 +16,7 @@
 
         <spring.version>4.3.14.RELEASE</spring.version>
         <dynamodb.local.version>1.11.86</dynamodb.local.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <jsonassert.version>1.2.3</jsonassert.version>
         <jackson.yaml.version>2.3.0</jackson.yaml.version>
     </properties>
